@@ -1,0 +1,1 @@
+# Create-an-Azure-SQL-database-that-uses-Microsoft-Defender-for-SQL
