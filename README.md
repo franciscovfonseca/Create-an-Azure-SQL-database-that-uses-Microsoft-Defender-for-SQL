@@ -41,18 +41,18 @@ You can focus on the schema and data of your database and let Azure take care of
 
 <br>
 
-◻️ In Search services and marketplace, search for and select ***SQL Database***, and then select **Create**.
+◻️ In Search services and marketplace, search for and select ***🆃 SQL Database***, and then select **Create**.
 <p align="center">
 <img src="https://github.com/franciscovfonseca/Create-an-Azure-SQL-database-that-uses-Microsoft-Defender-for-SQL/assets/172988970/6a0e9266-0562-4f5c-ace2-1bfae77b1019" height="40%" width="40%" alt="9"/><br />
 <br>
 
 <br>
 
-◻️ On the Create SQL Database blade, on the Basics page, in Resource group, select **corp-datalod42241754**, in Database name, enter ***AdventureworksLT***, and then in Server, select **Create new**.
+◻️ On the Create SQL Database blade, on the Basics page, in Resource group, select **corp-datalod42241754**, in Database name, enter ***🆃 AdventureworksLT***, and then in Server, select **Create new**.
 
 <br>
 
-◻️ On the New server blade, in Server name, enter sql42241754, in Authentication method, ensure that **Use SQL authentication** is selected, in Server admin login, enter ***AzureAdmin***, and then in Password and Confirm password, enter ***AzPwd!42241754!***.
+◻️ On the New server blade, in Server name, enter sql42241754, in Authentication method, ensure that **Use SQL authentication** is selected, in Server admin login, enter ***🆃 AzureAdmin***, and then in Password and Confirm password, enter ***🆃 AzPwd!42241754!***.
 
 <br>
 
@@ -112,7 +112,7 @@ You can focus on the schema and data of your database and let Azure take care of
 
 <br>
 
-◻️ On the Query editor (preview) page, in SQL server authentication, log in as ***AzureAdmin*** using ***AzPwd!42241754!*** as the password.
+◻️ On the Query editor (preview) page, in SQL server authentication, log in as ***🆃 AzureAdmin*** using ***🆃 AzPwd!42241754!*** as the password.
 
 <br>
 
@@ -350,7 +350,7 @@ SELECT * FROM SalesLT.Customer
 
 <br>
 
-◻️ On the Query editor (preview) page, in SQL server authentication, log in as ***AzureAdmin*** using ***AzPwd!42241754!*** as the password.
+◻️ On the Query editor (preview) page, in SQL server authentication, log in as ***🆃 AzureAdmin*** using ***🆃 AzPwd!42241754!*** as the password.
 
 - Access from your IP address should be blocked because of the firewall rule you deleted.
 
