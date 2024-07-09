@@ -11,7 +11,7 @@
 <h1> Create an Azure SQL Database that uses Microsoft Defender for SQL</h1>
 <br>
 
-In this exercise, you will **Enable Database Security**.
+In this lab, you will **Enable Database Security**.
 
 1. First, you will **Deploy a new Azure SQL Database**.
 
